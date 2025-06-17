@@ -1,4 +1,4 @@
-ori = 25
+ori = 18
 add = 42
 my_age = ori + add
-print(67)
+print(my_age)
